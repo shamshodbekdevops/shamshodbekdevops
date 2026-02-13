@@ -11,11 +11,6 @@ Backend & AI engineer focused on building real-world products.
 - AI integrations (LLM APIs)
 - Security mindset
 
-## 🔥 Featured Project
-**AI Vocabulary Trainer (SaaS)**  
-Django REST + React + PostgreSQL  
-User-isolated dictionaries, random tests, email auth, sound feedback.
-
 ## 🧠 Interests
 AI systems, Backend architecture, DevOps basics, Security
 
