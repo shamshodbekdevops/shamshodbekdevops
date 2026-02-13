@@ -1,18 +1,21 @@
-# 👋 Hi, I'm Shamshodbek Toshqobilov
+👋 Hi, I'm Shamshodbek Toshqobilov
 
-Backend & AI engineer focused on building real-world products.
+Backend, AI & Security Engineer building real-world systems.
+Focused on scalable backend architecture, AI integrations, and security-driven development.
 
-## 🚀 Tech Stack
-- Python, Django, Django REST Framework
-- PostgreSQL, Redis
-- React (integration)
-- REST API, JWT Auth
-- Docker (basic), CI/CD basics
-- AI integrations (LLM APIs)
-- Security mindset
+🚀 Tech Stack
+• Python, Django, Django REST Framework  
+• PostgreSQL, Redis  
+• React (integration)  
+• REST APIs, JWT Auth  
+• Docker, CI/CD basics  
+• LLM integrations  
+• Pentesting fundamentals  
+• Secure backend design  
+• 3D modeling & hardware-oriented development  
 
-## 🧠 Interests
-AI systems, Backend architecture, DevOps basics, Security
+🧠 Interests
+AI systems • Backend architecture • Cybersecurity • Pentesting • DevOps • AI + hardware
 
-## 📫 Contact
+📫 Contact
 Email: shamshodbektoshqobilov@gmail.com
